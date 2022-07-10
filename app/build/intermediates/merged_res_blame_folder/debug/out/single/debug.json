@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/layout_alert_dialog_with_imageview.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/layout/alert_dialog_with_imageview.xml"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/drawable_jd.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/drawable/jd.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/layout_alert_dialog_with_ratingbar.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/layout/alert_dialog_with_ratingbar.xml"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/drawable_sample.jpg.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/drawable/sample.jpg"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.journaldev.androidcustomalertdialog.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.journaldev.androidcustomalertdialog.app-main-20:/layout/activity_main.xml"
+    }
+]

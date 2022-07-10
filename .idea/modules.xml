@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidCustomAlertDialog.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidCustomAlertDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidCustomAlertDialog.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
